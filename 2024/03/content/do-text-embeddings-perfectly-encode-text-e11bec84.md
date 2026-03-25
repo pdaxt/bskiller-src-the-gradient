@@ -1,0 +1,1 @@
+'Vec2text' can serve as a solution for accurately reverting embeddings back into text, thus highlighting the urgent need for revisiting security protocols around embedded data.
