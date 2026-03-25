@@ -1,0 +1,7 @@
+# We Need Positive Visions for AI Grounded in Wellbeing
+
+Source: [The Gradient](https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/)
+
+---
+
+<h2 id="introduction">Introduction</h2><p>Imagine yourself a decade ago, jumping directly into the present shock of conversing naturally with an encyclopedic AI that crafts images, writes code, and debates philosophy. Won&#x2019;t this technology almost certainly transform society &#x2014; and hasn&#x2019;t AI&#x2019;s impact on us so far been</p>
