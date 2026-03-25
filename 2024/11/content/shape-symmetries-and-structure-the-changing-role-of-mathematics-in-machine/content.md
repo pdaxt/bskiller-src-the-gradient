@@ -1,0 +1,7 @@
+# Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research
+
+Source: [The Gradient](https://thegradient.pub/shape-symmetry-structure/)
+
+---
+
+<h3 id="what-is-the-role-of-mathematics-in-modern-machine-learning">What is the Role of Mathematics in Modern Machine Learning?</h3><p>The past decade has witnessed a shift in how progress is made in machine learning. Research involving carefully designed and mathematically principled architectures result in only marginal improvements while compute-intensive and engineering-first efforts that scale to ever larger training sets</p>
