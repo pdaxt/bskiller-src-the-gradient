@@ -1,0 +1,8 @@
+# After Orthogonality: Virtue-Ethical Agency and AI Alignment
+
+Source: [The Gradient](https://thegradient.pub/virtue-ethics-ai-alignment/)
+
+---
+
+<!--kg-card-begin: markdown--><h2 id="preface">Preface</h2>
+<p>This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals. Human actions are rational not because we direct them at some final &#x2018;goals,&#x2019; but because we align actions to <em>practices</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>: networks of actions, action-dispositions, action-evaluation criteria,</p>
