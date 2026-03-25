@@ -1,0 +1,1 @@
+<p>In this article, we will talk about <em>classical computation</em>: the kind of computation typically found in an undergraduate Computer Science course on Algorithms and Data Structures [1]. Think shortest path-finding, sorting, clever ways to break problems down into simpler problems, incredible ways to organise data for efficient retrieval and updates.</p>
