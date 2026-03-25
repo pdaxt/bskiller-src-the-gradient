@@ -1,0 +1,1 @@
+<blockquote>&quot;In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.&quot; &#x2013;Terry Winograd</blockquote><p>The recent successes of generative AI models have convinced some that AGI is imminent. While these models appear to capture the essence of human</p>
