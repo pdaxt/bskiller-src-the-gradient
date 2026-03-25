@@ -1,0 +1,1 @@
+<p>LLM-based chatbots&#x2019; capabilities have been advancing every month. These improvements are mostly measured by benchmarks like MMLU, HumanEval, and MATH (e.g. sonnet 3.5, gpt-4o). However, as these measures get more and more saturated, is user experience increasing in proportion to these scores? If we envision a future</p>
