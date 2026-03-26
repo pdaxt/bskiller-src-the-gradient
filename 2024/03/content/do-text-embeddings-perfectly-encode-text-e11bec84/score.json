@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "e11bec84-1b85-40d5-8b80-d5e4377fe2e2",
+  "title": "Do text embeddings perfectly encode text?",
+  "source_url": "https://thegradient.pub/text-embedding-inversion/",
+  "bs_score": 3.0,
+  "bs_rating": "verified",
+  "category": "research",
+  "summary": "",
+  "editorial_comment": "",
+  "scored_at": "2026-03-26T02:17:11Z"
+}
